@@ -1,4 +1,4 @@
-# activity_meetup_schedule_bot
+# activity_meetup_schedule_bot (НЕ МОЙ ПРОЕКТ, БЫЛ ИСПОЛЬЗОВАН В КАЧЕСТВЕ ПРИМЕРА РАБОТЫ)
 
 ## Настройка конфигурации
 
